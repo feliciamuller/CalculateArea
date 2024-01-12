@@ -1,4 +1,4 @@
-﻿namespace Labb_7_OOP_Polymorphism
+﻿namespace CalculateArea
 {
     internal class Program
     {

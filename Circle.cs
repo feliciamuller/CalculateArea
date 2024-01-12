@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Labb_7_OOP_Polymorphism
+namespace CalculateArea
 {
     internal class Circle : Geometri
     {
